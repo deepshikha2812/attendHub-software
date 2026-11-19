@@ -1,7 +1,13 @@
+# AttendHub : Self Attendance Tracker 
+For students to track their respective attendances 
+
+## Role
+REQUIREMENT ANALYST 
+
 ## Role
 PRODUCT & PROJECT LEAD & SYSTEM ANALYST 
 
-# System Analysis
+## System Analysis
 ## Overview
 This directory contains the system analysis and requirements modelling documentation 
 for the Student Self-Attendance Tracker.
